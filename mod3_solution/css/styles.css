@@ -1,0 +1,33 @@
+.navbar {
+    background-color: lightgray;
+    color: black;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.box1 {
+    padding: 3%;
+    border: 1px black solid;
+    margin: 3%;
+    background-color: lightgrey;
+    text-align: justify;
+}
+
+.box2 {
+    padding: 3%;
+    border: 1px black solid;
+    margin: 3%;
+    background-color: lightgrey;
+    text-align: justify
+}
+
+.box3 {
+    padding: 3%;
+    border: 1px black solid;
+    margin: 3%;
+    background-color: lightgrey;
+    text-align: justify
+}
